@@ -51,7 +51,7 @@ else:
 fullNames = [
     "Amara Nyanzi",
     "Someone else", #Replace
-
+  "Hopemidah kendi"
 
 ]
 
