@@ -11,8 +11,10 @@ print("Eve Candy")
 
 print("Mathew Kasanga")
 
-print("Steve Muturi") #<-- Add name here
 
+print("Steve Muturi")   #<-- Add name here
+
+print("Dennis Musyimi")
 
 
 # -------------------------
