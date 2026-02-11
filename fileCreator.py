@@ -9,7 +9,9 @@ print("Amara Nyanzi")
 print("Eve Candy")
 
 
-print("Mathew Kasanga") #<-- Add name here
+print("Mathew Kasanga")
+
+print("Steve Muturi") #<-- Add name here
 
 
 
