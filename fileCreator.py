@@ -50,6 +50,9 @@ else:
 name = "Sharon Opudo"
 filename = "Sharon.txt"
 
+name = "Eve Candy"
+filename = "Eve.txt"
+
 subprocess.run(f"echo '{name}' > dirOne/{filename}", shell=True)
 subprocess.run(f"echo '{name}' > dirTwo/{filename}", shell=True)
 
