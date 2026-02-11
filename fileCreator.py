@@ -11,9 +11,10 @@ from pathlib import Path
 
 
 
-print("Steve Muturi")   #<-- Add name here
+#print("Steve Muturi") 
 
-print("Dennis Musyimi")
+
+#print("Dennis Musyimi")
 
 print("Mathew Kasanga") #<-- Add name here
 print("Name: Mathew") #<-- Add name here
@@ -56,11 +57,11 @@ else:
 
 # TO DO: PLEASE PUT YOUR NAMES IN THIS ARRAY
 fullNames = [
-    "Eve Candy"
+    "Eve Candy",
     "Amara Nyanzi",
     "Rodgers Mwangi",
-
     "Steve Muturi",
+    "Dennis Musyimi",
 
 ]
 
