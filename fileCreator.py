@@ -2,31 +2,40 @@
 import subprocess
 from pathlib import Path
 
+# -------------------------
+# Create the first directory
+# -------------------------
 
-#create the first directory
-directoryPath= Path("dirOne")
-
-if directoryPath.exists():
-	print("DirOne already exists. Deleting any files within...")
-	subprocess.run("find dirOne -mindepth 1 -delete", shell=True)
-	
-else:
-	directoryPath.mkdir()
-	print("DirOne has been created")
-
-#create the second directory
-directoryPath= Path("dirTwo")
+directoryPath = Path("dirOne")
 
 if directoryPath.exists():
-        print("DirTwo already exists. Deleting any files within...")
-        subprocess.run("find dirTwo -mindepth 1 -delete", shell=True)
-        
+    print("DirOne already exists. Deleting any files within...")
+    subprocess.run("find dirOne -mindepth 1 -delete", shell=True)
 else:
-        directoryPath.mkdir()
-        print("DirTwo has been created")
+    directoryPath.mkdir()
+    print("DirOne has been created")
 
+# -------------------------
+# Create the second directory
+# -------------------------
 
-subprocess.run("echo 'Sharon Opudo' > dirOne/Sharon.txt", shell=True)
-subprocess.run("echo 'Sharon Opudo' > dirTwo/Sharon.txt", shell=True)
+directoryPath = Path("dirTwo")
+
+if directoryPath.exists():
+    print("DirTwo already exists. Deleting any files within...")
+    subprocess.run("find dirTwo -mindepth 1 -delete", shell=True)
+else:
+    directoryPath.mkdir()
+    print("DirTwo has been created")
+
+# -------------------------
+# Create text files
+# -------------------------
+
+name = "Sharon Opudo"
+filename = "Sharon.txt"
+
+subprocess.run(f"echo '{name}' > dirOne/{filename}", shell=True)
+subprocess.run(f"echo '{name}' > dirTwo/{filename}", shell=True)
+
 print("txt files created")
-
