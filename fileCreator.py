@@ -52,6 +52,7 @@ fullNames = [
     "Amara Nyanzi",
     "Rodgers Mwangi",
 
+    "Steve Muturi",
 
 ]
 
