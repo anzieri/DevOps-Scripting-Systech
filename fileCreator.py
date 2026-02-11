@@ -5,7 +5,9 @@ from pathlib import Path
 # FORGET THE CODE, WE ARE ONLY PRINTING OUR NAMES BELOW HERE TO DEMO GIT.
 print("Amara Nyanzi")
 
-print("Write your names under here. Remove this too")
+
+print("Eve Candy")
+
 
 print("Mathew Kasanga") #<-- Add name here
 
