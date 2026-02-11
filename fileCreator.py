@@ -28,3 +28,4 @@ else:
 
 subprocess.run("echo 'Rodgers Mwangi' > dirOne/Rodgers.txt", shell=True)
 subprocess.run("echo 'Rodgers Mwangi' > dirTwo/Rodgers.txt", shell=True)
+print("txt files created")
