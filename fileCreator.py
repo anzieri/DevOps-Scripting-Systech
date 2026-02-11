@@ -12,9 +12,9 @@ from pathlib import Path
 #print("Mathew Kasanga")
 
 
-#print("Steve Muturi")   #<-- Add name here
+print("Steve Muturi")   #<-- Add name here
 
-#print("Dennis Musyimi")
+print("Dennis Musyimi")
 
 
 # -------------------------
