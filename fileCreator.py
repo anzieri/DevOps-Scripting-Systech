@@ -12,7 +12,7 @@ if directoryPath.exists():
 	
 else:
 	directoryPath.mkdir()
-	print("DirTwo has been created")
+	print("DirOne has been created")
 
 #create the second directory
 directoryPath= Path("dirTwo")
@@ -26,6 +26,7 @@ else:
         print("DirTwo has been created")
 
 
-subprocess.run("echo 'Rodgers Mwangi' > dirOne/Rodgers.txt", shell=True)
-subprocess.run("echo 'Rodgers Mwangi' > dirTwo/Rodgers.txt", shell=True)
+subprocess.run("echo 'Sharon Opudo' > dirOne/Sharon.txt", shell=True)
+subprocess.run("echo 'Sharon Opudo' > dirTwo/Sharon.txt", shell=True)
 print("txt files created")
+
