@@ -61,7 +61,8 @@ fullNames = [
     "Amara Nyanzi",
     "Rodgers Mwangi",
     "Steve Muturi",
-    "Dennis Musyimi",
+    "Dennis Musyimi",  
+    "Hopemidah kendi"
 
 ]
 
