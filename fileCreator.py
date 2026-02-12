@@ -9,14 +9,14 @@ from pathlib import Path
 #print("Eve Candy")
 
 
-<<<<<<< HEAD
-print("Mathew Kasanga") #<-- Add name here
-print("Name: Mathew") #<-- Add name here
-print("Name: Kasanga")#<-- Add name here
-=======
+#<<<<<<< HEAD
+#print("Mathew Kasanga") #<-- Add name here
+#print("Name: Mathew") #<-- Add name here
+#print("Name: Kasanga")#<-- Add name here
+#======
 #print("Mathew Kasanga")
 
->>>>>>> bcac37202b1d4ff966fafe0654a7c71e9d69bfe4
+#>>>>>>> bcac37202b1d4ff966fafe0654a7c71e9d69bfe4
 
 #print("Steve Muturi") 
 
@@ -61,7 +61,8 @@ fullNames = [
     "Rodgers Mwangi",
     "Steve Muturi",
     "Dennis Musyimi",  
-    "Hopemidah kendi"
+    "Hopemidah kendi",
+    "Mathew kasanga"
 
 ]
 
