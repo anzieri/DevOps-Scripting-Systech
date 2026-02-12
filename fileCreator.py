@@ -62,7 +62,8 @@ fullNames = [
     "Steve Muturi",
     "Dennis Musyimi",  
     "Hopemidah kendi",
-    "Mathew kasanga"
+    "Mathew kasanga",
+    "Sharon Opudo"
 
 ]
 
