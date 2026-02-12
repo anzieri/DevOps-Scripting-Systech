@@ -12,7 +12,8 @@ from pathlib import Path
 #print("Mathew Kasanga")
 
 
-#print("Steve Muturi")   #<-- Add name here
+#print("Steve Muturi") 
+
 
 #print("Dennis Musyimi")
 
@@ -49,9 +50,12 @@ else:
 
 # TO DO: PLEASE PUT YOUR NAMES IN THIS ARRAY
 fullNames = [
+    "Eve Candy",
     "Amara Nyanzi",
-    "Someone else", #Replace
-  "Hopemidah kendi"
+    "Rodgers Mwangi",
+    "Steve Muturi",
+    "Dennis Musyimi",  
+    "Hopemidah kendi"
 
 ]
 
