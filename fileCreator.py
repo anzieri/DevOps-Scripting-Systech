@@ -8,8 +8,11 @@ from pathlib import Path
 
 #print("Eve Candy")
 
-
-
+#print("Mathew Kasanga") #<-- Add name here
+#print("Name: Mathew") #<-- Add name here
+#print("Name: Kasanga")#<-- Add name here
+#======
+#print("Mathew Kasanga")
 
 #print("Steve Muturi") 
 
@@ -62,7 +65,8 @@ fullNames = [
     "Rodgers Mwangi",
     "Steve Muturi",
     "Dennis Musyimi",  
-    "Hopemidah kendi"
+    "Hopemidah kendi",
+    "Mathew kasanga"
 
 ]
 
