@@ -49,7 +49,8 @@ else:
 
 # TO DO: PLEASE PUT YOUR NAMES IN THIS ARRAY
 fullNames = [
-    "Amara Nyanzi", "Eve Candy"
+    "Amara Nyanzi", "Eve Candy", "Mwende"
+
 
 
 ]
