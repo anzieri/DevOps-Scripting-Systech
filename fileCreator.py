@@ -2,28 +2,21 @@
 import subprocess
 from pathlib import Path
 
+# Here is my minor insignificant change to demo git. I am adding a print statement below.
+print("Get Git")
+
+print("Welcome to the file creator script.")
 # FORGET THE CODE, WE ARE ONLY PRINTING OUR NAMES BELOW HERE TO DEMO GIT.
 #print("Amara Nyanzi")
-
-
 #print("Eve Candy")
-#print("Mathew Kasanga") #<-- Add name here
-#print("Name: Mathew") #<-- Add name here
-#print("Name: Kasanga")#<-- Add name here
-#======
 #print("Mathew Kasanga")
 #print("Steve Muturi") 
-
-
+#print("Mathew Kasanga")
+#print("Steve Muturi")
 #print("Dennis Musyimi")
 
-print("Mathew Kasanga") #<-- Add name here
-print("Name: Mathew") #<-- Add name here
-print("Name: Kasanga")#<-- Add name here
+#print("Sharon Opudo")
 
-#print("Steve Muturi")   #<-- Add name here
-
-#print("Dennis Musyimi")
 
 # -------------------------
 # Create the first directory
