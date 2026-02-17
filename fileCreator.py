@@ -19,6 +19,8 @@ print("Welcome to the file creator script.")
 
 #print("Dennis Musyimi")
 
+#print("Sharon Opudo")
+
 
 # -------------------------
 # Create the first directory
