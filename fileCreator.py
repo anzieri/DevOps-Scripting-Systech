@@ -10,8 +10,10 @@ from pathlib import Path
 
 
 
-#print("Mathew Kasanga")
 
+print("Steve Muturi")   #<-- Add name here
+
+print("Dennis Musyimi")
 
 print("Mathew Kasanga") #<-- Add name here
 print("Name: Mathew") #<-- Add name here
