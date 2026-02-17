@@ -27,7 +27,6 @@ print("Name: Kasanga")#<-- Add name here
 
 #print("Dennis Musyimi")
 
-
 # -------------------------
 # Create the first directory
 # -------------------------
