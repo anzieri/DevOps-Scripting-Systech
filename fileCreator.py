@@ -23,6 +23,8 @@ from pathlib import Path
 
 #print("Dennis Musyimi")
 
+#print("Sharon Opudo")
+
 
 # -------------------------
 # Create the first directory
