@@ -2,6 +2,10 @@
 import subprocess
 from pathlib import Path
 
+# Here is my minor insignificant change to demo git. I am adding a print statement below.
+print("Get Git")
+
+print("Welcome to the file creator script.")
 # FORGET THE CODE, WE ARE ONLY PRINTING OUR NAMES BELOW HERE TO DEMO GIT.
 #print("Amara Nyanzi")
 
@@ -9,12 +13,16 @@ from pathlib import Path
 #print("Eve Candy")
 
 
+#print("Mathew Kasanga") #<-- Add name here
+#print("Name: Mathew") #<-- Add name here
+#print("Name: Kasanga")#<-- Add name here
 #print("Mathew Kasanga")
+#print("Steve Muturi")
 
-
-#print("Steve Muturi")   #<-- Add name here
 
 #print("Dennis Musyimi")
+
+#print("Sharon Opudo")
 
 
 # -------------------------
@@ -49,10 +57,15 @@ else:
 
 # TO DO: PLEASE PUT YOUR NAMES IN THIS ARRAY
 fullNames = [
+    "Eve Candy",
     "Amara Nyanzi",
-    "Nicole Mucheke", 
-    
-
+    "Nicole Mucheke",
+    "Rodgers Mwangi",
+    "Steve Muturi",
+    "Dennis Musyimi",
+    "Hopemidah kendi",
+    "Mathew kasanga",
+    "Sharon Opudo"
 
 ]
 
