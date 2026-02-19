@@ -59,6 +59,7 @@ else:
 fullNames = [
     "Eve Candy",
     "Amara Nyanzi",
+    "Nicole Mucheke",
     "Rodgers Mwangi",
     "Steve Muturi",
     "Dennis Musyimi",
